@@ -1,0 +1,2 @@
+$ ./cserver sldfile outputfile
+sldfileのデータをリトルエンディアンでバイナリに変換してoutputfileに出力する。
